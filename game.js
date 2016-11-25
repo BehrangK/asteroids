@@ -2,6 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
+// test: by BK
 
 KEY_CODES = {
   32: 'space',
